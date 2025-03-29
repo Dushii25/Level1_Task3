@@ -3,7 +3,7 @@
 # **📊 Data Analysis Internship - Level 1 (Task 3)**
 # 🌟 Restaurant Data Analysis: Ratings & Pricing Trends  
 
-![Project Banner](images/restaurant_analysis_banner.png)  
+![Project Banner](images/Screenshot 2025-03-29 103031.png)  
 
 ## 📚 Introduction  
 This project is part of my **Level 1 Data Analysis Internship**, where I analyze a dataset containing **restaurant ratings, pricing trends, and customer preferences**.  
