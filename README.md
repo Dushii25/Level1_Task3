@@ -76,7 +76,7 @@ _(Click to Expand)_
 ---  
 
 ## 🎥 Video Walkthrough  
-🎥 Watch my **detailed explanation** of the analysis **[here](https://your-video-link.com)**.  
+🎥 Watch my **detailed explanation** of the analysis **[here](https://github.com/Dushii25/Level1_Task3/blob/main/Task3.mp4)**.  
 
 ---  
 
